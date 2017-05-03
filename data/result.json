@@ -1,0 +1,38 @@
+[
+  {
+    "category": "A",
+    "Name": "Ocean",
+    "Description": "You go with the flow, letting the current take you where it will. You shape the world around you and want to make sure that it survives, for all creatures that live on it. Our majestic oceans need help against the destructive forces of unsustainable fishing, drilling, pollution and climate change. Send them an SOS.",
+    "Image": "cat-Ocean.jpg"
+  },
+  {
+    "category": "B",
+    "Name": "Detox",
+    "Description": "You are too cool for school. If it’s not beautiful, then it’s not on you. Some totally unstylish companies ​are ​putting our planet at risk by us​ing​ hazardous chemicals to make ​our ​clothes. Don’t they know, toxic-free fashion is becoming a must-have trend? It’s time they Detoxed.",
+    "Image": "cat-detox.jpg"
+  },
+  {
+    "category": "C",
+    "Name": "Arctic",
+    "Description": "You are determined, stoic and you can withstand almost anything that comes your way. But not climate change. The Arctic is getting warmer. And as the ice melts, oil companies are rushing to exploit newly available fossil fuel deposits, further contributing to the problem. This needs to stop. For the entire planet’s sake.",
+    "Image": "cat-arctic.jpg"
+  },
+  {
+    "category": "D",
+    "Name": "Food",
+    "Description": "You love everything life has to offer, especially things you can eat. And you want to live in a world that exists in harmony with nature, not against it. Excessive use of synthetic fertilisers or chemical pesticides on crops can be really harmful to the environment, people and animals. Ecological farming is the solution.",
+    "Image": "cat-food.jpg"
+  },
+  {
+    "category": "E",
+    "Name": "Flowers",
+    "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "Image": "cat-flowers.jpg"
+  },
+  {
+    "category": "F",
+    "Name": "Snow",
+    "Description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "Image": "cat-snow.jpg"
+  }
+]

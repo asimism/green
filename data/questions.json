@@ -1,0 +1,284 @@
+[
+  {
+    "question": "Pick an animal",
+    "choices": [
+      {
+        "answer": "bee.jpg",
+        "category": "A",
+        "overlay": "Bee"
+      },
+      {
+        "answer": "bird.jpg",
+        "category": "B",
+        "overlay": "Bird"
+      },
+      {
+        "answer": "bear.jpg",
+        "category": "C",
+        "overlay": "Bear"
+      },
+      {
+        "answer": "girl.jpg",
+        "category": "D",
+        "overlay": "Human"
+      },
+      {
+        "answer": "monk.jpg",
+        "category": "E",
+        "overlay": "Monkey"
+      },
+      {
+        "answer": "shark.jpg",
+        "category": "F",
+        "overlay": "Shark"
+      }
+    ],
+    "type": "image"
+  },
+  {
+    "question": "What is your ideal weekend activity?",
+    "choices": [
+      {
+        "answer": "ice-skating.jpg",
+        "category": "A",
+        "overlay": "ice skating"
+      },
+      {
+        "answer": "cycling.jpg",
+        "category": "B",
+        "overlay": "cycling"
+      },
+      {
+        "answer": "diving.jpg",
+        "category": "C",
+        "overlay": "Skooba Diving"
+      },
+      {
+        "answer": "woods.jpg",
+        "category": "D",
+        "overlay": "Walking in woods"
+      },
+      {
+        "answer": "cooking.jpg",
+        "category": "E",
+        "overlay": "Cooking new dishes"
+      },
+      {
+        "answer": "shopping.jpg",
+        "category": "F",
+        "overlay": "shopping"
+      }
+    ],
+    "type": "image"
+  },
+  {
+    "question": "If you could live anywhere, where would it be?",
+    "choices": [
+      {
+        "answer": "wind-mill.jpg",
+        "category": "A",
+        "overlay": "Wind Mill"
+      },
+      {
+        "answer": "tree-house.jpg",
+        "category": "B",
+        "overlay": "Tree House"
+      },
+      {
+        "answer": "ocean.jpg",
+        "category": "C",
+        "overlay": "Ocean"
+      },
+      {
+        "answer": "room.jpg",
+        "category": "D",
+        "overlay": "My Room"
+      },
+      {
+        "answer": "north-pole.jpg",
+        "category": "E",
+        "overlay": "Noth Pole"
+      },
+      {
+        "answer": "meadow.jpg",
+        "category": "F",
+        "overlay": "Fairy Meadows"
+      }
+    ],
+    "type": "image"
+  },
+  {
+    "question": "People would describe you as...",
+    "choices": [
+      {
+        "answer": "Trustworthy and steadfast",
+        "category": "A"
+      },
+      {
+        "answer": "Spontaneous and easy going",
+        "category": "B"
+      },
+      {
+        "answer": "Tough and stoic",
+        "category": "C"
+      },
+      {
+        "answer": "Pure and earthy",
+        "category": "D"
+      },
+      {
+        "answer": "Fashionable and hip",
+        "category": "E"
+      },
+      {
+        "answer": "Bubbly and energetic",
+        "category": "F"
+      }
+    ],
+    "type": "text"
+  },
+  {
+    "question": "If you won a lot of money, what would you spend it on?",
+    "choices": [
+      {
+        "answer": "clothing.jpg",
+        "category": "A",
+        "overlay": "clothing"
+      },
+      {
+        "answer": "trip.jpg",
+        "category": "B",
+        "overlay": "Trip to North Pole"
+      },
+      {
+        "answer": "wind-turbine.jpg",
+        "category": "C",
+        "overlay": "Wind Turbine"
+      },
+      {
+        "answer": "sailing-boat.jpg",
+        "category": "D",
+        "overlay": "Sailing Boat"
+      },
+      {
+        "answer": "food.jpg",
+        "category": "E",
+        "overlay": "Lot of Food"
+      },
+      {
+        "answer": "plants.jpg",
+        "category": "F",
+        "overlay": "Thousands of Plants"
+      }
+    ],
+    "type": "image"
+  },
+  {
+    "question": "What is your favourite colour?",
+    "choices": [
+      {
+        "answer": "color-yellow.jpg",
+        "category": "A",
+        "overlay": "Yellow"
+      },
+      {
+        "answer": "color-light-green.jpg",
+        "category": "B",
+        "overlay": "Light Green"
+      },
+      {
+        "answer": "color-ligh-brown.jpg",
+        "category": "C",
+        "overlay": "Light Brown"
+      },
+      {
+        "answer": "color-gray.jpg",
+        "category": "D",
+        "overlay": "Bluish Gray"
+      },
+      {
+        "answer": "color-green.jpg",
+        "category": "E",
+        "overlay": "Green"
+      },
+      {
+        "answer": "color-magenta.jpg",
+        "category": "F",
+        "overlay": "Magenta"
+      }
+    ],
+    "type": "image"
+  },
+  {
+    "question": "Pick a cat",
+    "choices": [
+      {
+        "answer": "cat1.jpg",
+        "category": "A",
+        "overlay": "Greenpeace"
+      },
+      {
+        "answer": "cat2.jpg",
+        "category": "B",
+        "overlay": "jessandcolin / Via Flickr"
+      },
+      {
+        "answer": "cat3.jpg",
+        "category": "C",
+        "overlay": "meantux / Via Flickr"
+      },
+      {
+        "answer": "cat4.jpg",
+        "category": "D",
+        "overlay": "mundoworldmond / Via Flickr"
+      },
+      {
+        "answer": "cat5.jpg",
+        "category": "E",
+        "overlay": "tiendacartidadegato / Via Flickr"
+      },
+      {
+        "answer": "cat6.jpg",
+        "category": "F",
+        "overlay": "skittledog / Via Flickr"
+      }
+    ],
+    "type": "image"
+  },
+  {
+    "question": "Pick a Beyoncé",
+    "choices": [
+      {
+        "answer": "Beyonce1.jpg",
+        "category": "A",
+        "overlay": "Singer"
+      },
+      {
+        "answer": "Beyonce2.jpg",
+        "category": "B",
+        "overlay": "Modal Girl"
+      },
+      {
+        "answer": "Beyonce3.jpg",
+        "category": "C",
+        "overlay": "Someone"
+      },
+      {
+        "answer": "Beyonce4.jpg",
+        "category": "D",
+        "overlay": "Nice Dress"
+      },
+      {
+        "answer": "Beyonce5.jpg",
+        "category": "E",
+        "overlay": "Another Modal"
+      },
+      {
+        "answer": "Beyonce6.jpg",
+        "category": "F",
+        "overlay": "shopping"
+      }
+    ],
+    "type": "image"
+  }
+]

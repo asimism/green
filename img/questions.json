@@ -1,0 +1,248 @@
+[
+  {
+    "question": "Pick an animal",
+    "choices": [
+      {
+        "answer": "bee.jpg",
+        "category": "A",
+        "overlay": "lorem ipsum"
+      },
+      {
+        "answer": "bird.jpg",
+        "category": "B",
+        "overlay": "lorem ipsum"
+      },
+      {
+        "answer": "bear.jpg",
+        "category": "C",
+        "overlay": "lorem ipsum"
+      },
+      {
+        "answer": "girl.jpg",
+        "category": "B",
+        "overlay": "lorem ipsum"
+      },
+      {
+        "answer": "monk.jpg",
+        "category": "B",
+        "overlay": "lorem ipsum"
+      },
+      {
+        "answer": "shark.jpg",
+        "category": "B",
+        "overlay": "lorem ipsum"
+      }
+    ],
+    "type": "image"
+  },
+  {
+    "question": "What is your ideal weekend activity?",
+    "choices": [
+      {
+        "answer": "ice-skating.jpg",
+        "category": "A",
+        "overlay": "ice skating"
+      },
+      {
+        "answer": "cycling.jpg",
+        "category": "B",
+        "overlay": "cycling"
+      },
+      {
+        "answer": "diving.jpg",
+        "category": "C",
+        "overlay": "Skooba Diving"
+      },
+      {
+        "answer": "woods.jpg",
+        "category": "B",
+        "overlay": "Walking in woods"
+      },
+      {
+        "answer": "cooking.jpg",
+        "category": "B",
+        "overlay": "Cooking new dishes"
+      },
+      {
+        "answer": "shopping.jpg",
+        "category": "B",
+        "overlay": "shopping"
+      }
+    ],
+    "type": "image"
+  },
+  {
+    "question": "If you could live anywhere, where would it be?",
+    "choices": [
+      {
+        "answer": "wind-mill.jpg",
+        "category": "A",
+        "overlay": "ice skating"
+      },
+      {
+        "answer": "tree-house.jpg",
+        "category": "B",
+        "overlay": "cycling"
+      },
+      {
+        "answer": "ocean.jpg",
+        "category": "C",
+        "overlay": "Skooba Diving"
+      },
+      {
+        "answer": "room.jpg",
+        "category": "B",
+        "overlay": "Walking in woods"
+      },
+      {
+        "answer": "ocean.jpg",
+        "category": "B",
+        "overlay": "Cooking new dishes"
+      },
+      {
+        "answer": "meadow.jpg",
+        "category": "B",
+        "overlay": "shopping"
+      }
+    ],
+    "type": "image"
+  },
+  {
+    "question": "People would describe you as...",
+    "choices": [
+      {
+        "answer": "Trustworthy and steadfast",
+        "category": "A"
+      },
+      {
+        "answer": "Spontaneous and easy going",
+        "category": "B"
+      },
+      {
+        "answer": "Tough and stoic",
+        "category": "C"
+      },
+      {
+        "answer": "Pure and earthy",
+        "category": "C"
+      },
+      {
+        "answer": "Fashionable and hip",
+        "category": "C"
+      },
+      {
+        "answer": "Bubbly and energetic",
+        "category": "C"
+      }
+    ],
+    "type": "text"
+  },
+  {
+    "question": "If you won a lot of money, what would you spend it on?",
+    "choices": [
+      {
+        "answer": "clothing.jpg",
+        "category": "A",
+        "overlay": "ice skating"
+      },
+      {
+        "answer": "trip.jpg",
+        "category": "B",
+        "overlay": "cycling"
+      },
+      {
+        "answer": "wind-turbine.jpg",
+        "category": "C",
+        "overlay": "Skooba Diving"
+      },
+      {
+        "answer": "sailing-boat.jpg",
+        "category": "B",
+        "overlay": "Walking in woods"
+      },
+      {
+        "answer": "food.jpg",
+        "category": "B",
+        "overlay": "Cooking new dishes"
+      },
+      {
+        "answer": "plants.jpg",
+        "category": "B",
+        "overlay": "shopping"
+      }
+    ],
+    "type": "image"
+  },
+  {
+    "question": "What is your favourite colour?",
+    "choices": [
+      {
+        "answer": "color-yellow.jpg",
+        "category": "A",
+        "overlay": "ice skating"
+      },
+      {
+        "answer": "color-light-green.jpg",
+        "category": "B",
+        "overlay": "cycling"
+      },
+      {
+        "answer": "color-ligh-brown.jpg",
+        "category": "C",
+        "overlay": "Skooba Diving"
+      },
+      {
+        "answer": "color-gray.jpg",
+        "category": "B",
+        "overlay": "Walking in woods"
+      },
+      {
+        "answer": "color-green.jpg",
+        "category": "B",
+        "overlay": "Cooking new dishes"
+      },
+      {
+        "answer": "color-magenta.jpg",
+        "category": "B",
+        "overlay": "shopping"
+      }
+    ],
+    "type": "image"
+  },
+  {
+    "question": "Pick a Beyoncé",
+    "choices": [
+      {
+        "answer": "Beyonce1.jpg",
+        "category": "A",
+        "overlay": "ice skating"
+      },
+      {
+        "answer": "Beyonce2.jpg",
+        "category": "B",
+        "overlay": "cycling"
+      },
+      {
+        "answer": "Beyonce3.jpg",
+        "category": "C",
+        "overlay": "Skooba Diving"
+      },
+      {
+        "answer": "Beyonce4.jpg",
+        "category": "B",
+        "overlay": "Walking in woods"
+      },
+      {
+        "answer": "Beyonce5.jpg",
+        "category": "B",
+        "overlay": "Cooking new dishes"
+      },
+      {
+        "answer": "Beyonce6.jpg",
+        "category": "B",
+        "overlay": "shopping"
+      }
+    ],
+    "type": "image"
+  }
+]
