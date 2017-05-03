@@ -1,10 +1,7 @@
-@font-face {
-  font-family: 'Open Sans';
-  src: url("../fonts/OpenSans-Regular.ttf");
-}
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 body {
-  font-family: "Open Sans";
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   color: #3d3d3d;
   background: #E2F2F1;
@@ -211,6 +208,7 @@ body {
   top: 0;
   bottom: 0;
   height: 288px;
+  width: 100%;
   @media screen and (max-width: 767px) {
     position: relative;
     margin-top: 20px;

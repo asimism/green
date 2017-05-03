@@ -70,6 +70,9 @@ $(document).ready(function () {
             }, 500);
         }
     });
+    $('#questionsSlider').on('slide.bs.carousel', function () {
+        $("html, body").animate({ scrollTop: 0 }, "slow");
+    });
     $(document).on('keyup', '.question .q-item', function (e) {
         console.log(e.which);
         if (e.which === 13) {
